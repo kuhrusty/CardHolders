@@ -44,7 +44,9 @@ this yet, so it may have errors (although my brother did some fitment
 test in SolidWorks, and said it was fine).
 
 * **[card-holder-double-box-lid-only.svg](card-holder-double-box-lid-only.svg)**
-  contains one lid, intended for an 8.5" x 11" sheet.
+  contains one lid, intended for an 8.5" x 11" sheet.  (Note that this
+  is not exactly the *file* which was rendered below, but I *think* the
+  pieces are identical.)
 
 Rendered box with lid (from [Ken](https://www.kbcad.engineering/)):
 
@@ -69,4 +71,5 @@ column of trays along the edge of your board.
 * **[card-holder-tray4.svg](card-holder-tray4.svg)** contains one tray,
   laid out horribly wastefully.  This differs from the trays in the
   image above in that the interlocking puzzle-piece bits are shaped more
-  like the cross cutout at the top of the tray, just for fun.
+  like the cross cutout at the top of the tray, just for fun.  Note that
+  I have not had a chance to print this one.
