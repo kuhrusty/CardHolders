@@ -68,6 +68,9 @@ Each tray has space for a draw & discard pile for one deck of cards.
 The bases interlock, so that you can assemble them into one row or
 column of trays along the edge of your board.
 
+* **[card-holder-tray2.svg](card-holder-tray2.svg)** contains one tray,
+  laid out horribly wastefully.  This is the version in the pictures
+  above.
 * **[card-holder-tray4.svg](card-holder-tray4.svg)** contains one tray,
   laid out horribly wastefully.  This differs from the trays in the
   image above in that the interlocking puzzle-piece bits are shaped more
